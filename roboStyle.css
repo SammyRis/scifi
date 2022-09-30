@@ -1,0 +1,15 @@
+.adminBox{
+    background-color:lightgray;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 25px;
+}
+
+.bodyContainer{
+    background-color: lightgray;
+}
+
+#mainTitle{
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: grey;
+    margin-bottom: 0;
+}
